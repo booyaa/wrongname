@@ -5,6 +5,7 @@ authors = ["booyaa <booyaabooyaabooyaa@gmail.com>"]
 repository = "https://github.com/booyaa/wrongname"
 keywords = ["sorry","pizza"]
 license = "Apache-2.0"
+description = "This is a test crate."
 
 
 [dependencies]
